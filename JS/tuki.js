@@ -1,1 +1,3 @@
-/* comentario */
+function saludo(){
+    alert("hola alumnos ");
+}
